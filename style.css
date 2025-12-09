@@ -6,6 +6,7 @@ html *{
 body{
     background-color: #000000;
     font-size: 20px;
+    font-family: "Prosto One", sans-serif;
     color: white;
 
 }
@@ -87,7 +88,7 @@ body{
 }
 
 .aj{
-    font-size: 50pw;
+    font-size: 40pw;
     color: #08CB00;
 }
 .aj:hover{
@@ -100,6 +101,20 @@ body{
 
 .wel{
     text-align: center;
-    font-size: 70px;
+    font-size: 50px;
 }
+
+.vl{
+    color:black;
+    border:2px solid white;
+    border-radius: 15px;
+    padding:10px;
+    font-size: 30px;
+    background-color: #08CB00;
+}
+
+.vl:hover:active{
+    border:none;
+}
+
 
